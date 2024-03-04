@@ -22,5 +22,5 @@
 * Разметка: XML, ConstraintLayout
 
 ## Скриншоты и видео
-<img src="screenshots/1.gif" alt="Подключение" width=240> <img src="screenshots/2.gif" alt="Начало тренировки и переход на карточку спортсмена" width=240> <img src="screenshots/3.gif" alt="Смена параметров устройства" width=240>
-<img src="screenshots/4.gif" alt="Демонстрация индикации состояния подключения (видео ускорено)" width=240> <img src="screenshots/5.gif" alt="Демонстрация сохранения устройств в БД" width=240>
+<img src="screenshots/1.gif" alt="Подключение" width=300> <img src="screenshots/2.gif" alt="Начало тренировки и переход на карточку спортсмена" width=300> <img src="screenshots/3.gif" alt="Смена параметров устройства" width=300>
+<img src="screenshots/4.gif" alt="Демонстрация индикации состояния подключения (видео ускорено)" width=300> <img src="screenshots/5.gif" alt="Демонстрация сохранения устройств в БД" width=300>
